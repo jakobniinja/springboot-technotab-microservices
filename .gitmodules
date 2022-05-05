@@ -1,0 +1,3 @@
+[submodule "spring-technotab-server"]
+	path = spring-technotab-server
+	url = https://github.com/jakobniinja/spring-technotab-server
